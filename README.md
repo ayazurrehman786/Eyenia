@@ -1,7 +1,7 @@
 # EYENIA
 
 
-<strong>Below are the tasks needs to be done: <strong> <br>
+<strong>Pending Tasks: <strong> <br>
 
 <p> 1. Backend API creation and integration with Frontend <br>
 2. Teltonika Integration (Already done) <br>
