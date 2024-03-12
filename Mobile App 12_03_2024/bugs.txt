@@ -1,0 +1,27 @@
+1. Bottom black bar to be removed from all screens ...................................../
+2. When zooming out the map, sometimes it shows login screen.............................../
+3. When app is login, the vehicles takes few seconds to show up in the map.............................../
+4. When should not rotate when rotating the map with fingers................................/
+5. Battery Percentage to be fixed on the map screen......................
+6. Signals Quality to be fixed on map screen.............................../
+7. History to be fixed
+8. Zone to be fixed
+9. In the setting or profile icon, when press back button it should go to previous screen not to map screen.............................../
+10. In notification settings, when notification is saved, it should to previous screen not to map................................/
+11. Speed should be editable, if more that set speed, we should receive alert................................/
+12. Redemarer (Restart) device to send GPRS command to device to restart it
+13. Appreils Associe, should show list of connected bluetooth devices with teltonika or concox
+14. When tracking mode is set to 3,5,10,15s….it will appear on the map screen whatever value is set.
+15. In regiage…Blue vehicle title box design to be fixed same as figm....................../
+16. Coupure Circuit…To send GPRS command to disable or Enable the OUT1 of teltonika or concox
+17. In details, SIM Iccid to be fixed ............................/
+18. In details, Battery percentage to be fixed...................../
+19. Duree position and Derinere mise to be removed and instead just mention Dernière mis à jour (Last updated status)...same as in figma
+20. Longitude and latitude to be fixed in the details appareil............................../
+21. Address to be fixed in device appareil.........................../
+22. In profile, password to be change should work..such as enter current pass and new password
+23. Email and Phone number to be editable…when user change email should receive a confirmation email on new email.
+24. Forgot password option to be fixed
+25. Delete vehicle to be fixed in the Regiage................................../
+26. When signup, you should receive a confirmation link via email.
+

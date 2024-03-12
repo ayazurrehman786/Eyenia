@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Eyenia",
+    "slug": "Eyenia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.ayaz.eyenia",
+      "config": {
+        "googleMapsApiKey": "AIzaSyD9vdLrtEtIZ-U2i8tRqMVyrI0J_KbfeDk"
+      },
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.ayaz.eyenia",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD9vdLrtEtIZ-U2i8tRqMVyrI0J_KbfeDk"
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ec3b50bc-a1c3-4258-9463-4647a2ceb7b2"
+      }
+    }
+  }
+}
